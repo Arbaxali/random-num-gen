@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    margin: 40px;
+    border: 2px solid black;
+}
+#p{
+    background-color: red;
+    
+
+}
+#btn{
+    padding: 20px;
+    background-color: red;
+    font-size: 9px;
+}
